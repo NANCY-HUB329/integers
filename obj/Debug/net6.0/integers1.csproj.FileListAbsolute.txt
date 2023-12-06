@@ -1,0 +1,14 @@
+C:\Users\Nancy\Desktop\my c projects\integers1\bin\Debug\net6.0\integers1.exe
+C:\Users\Nancy\Desktop\my c projects\integers1\bin\Debug\net6.0\integers1.deps.json
+C:\Users\Nancy\Desktop\my c projects\integers1\bin\Debug\net6.0\integers1.runtimeconfig.json
+C:\Users\Nancy\Desktop\my c projects\integers1\bin\Debug\net6.0\integers1.dll
+C:\Users\Nancy\Desktop\my c projects\integers1\bin\Debug\net6.0\integers1.pdb
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.AssemblyInfoInputs.cache
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.AssemblyInfo.cs
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.dll
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\refint\integers1.dll
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.pdb
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\integers1.genruntimeconfig.cache
+C:\Users\Nancy\Desktop\my c projects\integers1\obj\Debug\net6.0\ref\integers1.dll
